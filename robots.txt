@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toyotarangga.com/sitemap.xml
